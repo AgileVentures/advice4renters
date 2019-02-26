@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 _site
 .sass-cache
 =======
@@ -6,4 +7,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 >>>>>>> 01016ebb635f3af11a3a3fd452a1cb80201c32ad
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+>>>>>>> origin/master
 .jekyll-metadata
