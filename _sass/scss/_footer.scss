@@ -1,6 +1,7 @@
 // Styling for the footer
 footer {
   padding: 25px 0;
+  
   text-align: center;
   span.copyright {
     font-size: 90%;
@@ -32,11 +33,11 @@ ul.social-buttons {
       color: white;
       border-radius: 100%;
       outline: none;
-      background-color: $gray-900;
+      background-color: $dark-blue;
       &:active,
       &:focus,
       &:hover {
-        background-color: $primary;
+        background-color: $dark-blue;
       }
     }
   }

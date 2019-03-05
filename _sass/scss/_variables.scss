@@ -1,5 +1,13 @@
 // Variables
 
+// brand
+
+$dark-blue: #263E4F;
+$light-turq: #E2F2F5;
+$primary: #A5CB21 !default;
+$light: #E2F2F5;
+
+
 // Restated Bootstrap Variables
 
 $white: #fff !default;
@@ -14,7 +22,11 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$primary: #A5CB21 !default;
+.bg-light {
+	background-color: #E2F2F5 !important;
+} 
+
+
 
 .btn-primary {
   background-color: #A5CB21;
