@@ -1,11 +1,12 @@
 // Variables
 
-// brand
+// brand colours
 
 $dark-blue: #263E4F;
 $light-turq: #E2F2F5;
-$primary: #A5CB21 !default;
-$light: #E2F2F5;
+$mid-turq: #4BB8BD;
+$lime-green: #A5CB21;
+$primary: $lime-green !default;
 
 
 // Restated Bootstrap Variables
@@ -23,8 +24,20 @@ $gray-900: #212529 !default;
 $black: #000 !default;
 
 .bg-light {
-	background-color: #E2F2F5 !important;
+	background-color: $light-turq !important;
 } 
+
+.intro-heading {
+	color: $light-turq;
+}
+
+.intro-logo {
+	padding-left: 5px;
+	padding-right: 5px;
+	margin: auto;
+	border-radius: 5px;
+	background-color: $dark-blue;
+}
 
 
 
